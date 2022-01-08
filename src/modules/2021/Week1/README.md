@@ -1,4 +1,4 @@
-<h1 align="center">Week 1</h1>
+<h1 align="center">Week 1 - Welcome to Technical Recruitment!</h1>
 
 ## Week description 🏁
 <p>This is our introductory week! We'll learn more about your journey at Core Code as a technical recruiter, introduce you to some key technology concepts and the history of computing. Notice we use the word computing and not computer? In the practical side of this module we'll understand how a development team is built and understand the challenges recruiters face as we build the future together.
