@@ -14,6 +14,7 @@
 
 ## Glossary
 <p> We've started out an introductory Glossary for everyone, it covers mostly the first 2 modules.</p>
+
 * [Glossary](src/introGlossary.md)
 
 ## Modules
