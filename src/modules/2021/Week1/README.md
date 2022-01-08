@@ -22,7 +22,7 @@ What is software? What is an operating system? How does a computer work? These a
 * [Welcome Session](https://docs.google.com/presentation/d/1rueVoegr7gWsBJwPYzt_79WHtpELmAs1KxCBQL06j7Q/edit?usp=sharing)
 * [Agile](https://drive.google.com/file/d/12aEfFZ6k5FQPG6GIN-FZuQct1R4zQcG0/view?usp=sharing)
 
-## Try these activities! 🎉
+## Review our activities! 🎉
 
 * [Jamboard - What is technology?](https://jamboard.google.com/d/1LwKTas7V67nCJZDwJrHocPABFkTXJXHe7dyFDiouQEI/edit?usp=sharing)
 * [Jamboard - The Future](https://jamboard.google.com/d/19-wHCG4Ar2cZaZJK60OHSzYtejhSb6FlBT-FTrT-_ec/edit?usp=sharing)
