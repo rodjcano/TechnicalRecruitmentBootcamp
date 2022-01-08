@@ -19,22 +19,21 @@ What is software? What is an operating system? How does a computer work? These a
   - Scrum 
 
 ## Week Slides 💻
-* [Welcome Session](https://drive.google.com/file/d/10UoyKINiMShVEDdyKQOAgw3ucQgq_ygR/view?usp=sharing)
-* [Computing and networks](https://drive.google.com/file/d/11haF5VZYxvm14bNgW8rlencqPOFuZEvp/view?usp=sharing)
-* [How development works](https://drive.google.com/file/d/1QGFGZBNA7TQPBNtQSMARd-VeHu6f1Kaw/view?usp=sharing)
+* [Welcome Session](https://docs.google.com/presentation/d/1rueVoegr7gWsBJwPYzt_79WHtpELmAs1KxCBQL06j7Q/edit?usp=sharing)
 * [Agile](https://drive.google.com/file/d/12aEfFZ6k5FQPG6GIN-FZuQct1R4zQcG0/view?usp=sharing)
 
 ## Try these activities! 🎉
-* [DNS check](https://dns.google.com/)
-  <p>We will be interacting with a web page that allows us to see how the translation performed by a DNS server work, we will be entering web page addresses, for example “facebook.com” and this page will respond with the corresponding IP address.</p>
 
-* [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
-  <p>We will be programming our first application, with the help of "Scratch" and using different instructions, we will build our first algorithm. As a result, we will have a cat moving on our screen!</p>
+* [Jamboard - What is technology?](https://jamboard.google.com/d/1LwKTas7V67nCJZDwJrHocPABFkTXJXHe7dyFDiouQEI/edit?usp=sharing)
+* [Jamboard - The Future](https://jamboard.google.com/d/19-wHCG4Ar2cZaZJK60OHSzYtejhSb6FlBT-FTrT-_ec/edit?usp=sharing)
+* [Jamboard - Who is part of a development team?](https://jamboard.google.com/d/1BTjlyeJ50W161EJdBM-eOAeT_gkoiaefOW76M8EzkWI/edit?usp=sharing)
+* [Jamboard - Challenges in building a development team](https://jamboard.google.com/d/13quifUstPQ8wVdB2DKcSJ4tfNyAX3_kcJVm43RidaEY/edit?usp=sharing)
 
 ## Test 📝
 * Find the test [here](https://aplica.typeform.com/to/TAwzKmZH) on Friday.
 
 ## Week links 🔗
-* [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
-* [Macintosh Online](http://jamesfriend.com.au/pce-js/)
-* [Windows 1](https://copy.sh/v86/?profile=windows1)
+
+* [Stanford Encyclopedia of Philosophy - The History of Computing](https://plato.stanford.edu/entries/computing-history/)
+* [Django Stars - Building a Development Team](https://djangostars.com/blog/form-successful-development-team/)
+* [Gallup Polls - Remote Work Trends in 2022 and beyond](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx)
