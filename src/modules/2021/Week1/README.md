@@ -1,23 +1,20 @@
 <h1 align="center">Week 1</h1>
 
 ## Week description 🏁
-<p>This is our introductory week! We'll learn more about your journey at Core Code as a technical recruiter, computing & networks and how development Works! 
+<p>This is our introductory week! We'll learn more about your journey at Core Code as a technical recruiter, introduce you to some key technology concepts and the history of computing. Notice we use the word computing and not computer? In the practical side of this module we'll understand how a development team is built and understand the challenges recruiters face as we build the future together.
 
 What is software? What is an operating system? How does a computer work? These are some of the questions will answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as to Agile and a framework called SCRUM, used for software development.</p>
 
 ## Topics 📚
 * Welcome Session
   - General Picture & Program
-  - History of Computing & role of Technical Recruitment
-* Computing and networks
-  - How computers work
-  - Operating systems
-  - Sofware
-  - How networks work
-  - How the internet works
-* How development works
-  - Algorithms and structures
-  - How programs are built by the computer
+  - History of Computing 
+  - The role of Technical Recruitment
+* What is a development team?
+  - Characteristics
+  - Define roles
+  - How are they managed
+  - Project management methodologies
 * Agile 
   - Scrum 
 
