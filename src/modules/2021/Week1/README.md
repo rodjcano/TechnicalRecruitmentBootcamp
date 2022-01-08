@@ -28,6 +28,7 @@ What is software? What is an operating system? How does a computer work? These a
 * [Jamboard - The Future](https://jamboard.google.com/d/19-wHCG4Ar2cZaZJK60OHSzYtejhSb6FlBT-FTrT-_ec/edit?usp=sharing)
 * [Jamboard - Who is part of a development team?](https://jamboard.google.com/d/1BTjlyeJ50W161EJdBM-eOAeT_gkoiaefOW76M8EzkWI/edit?usp=sharing)
 * [Jamboard - Challenges in building a development team](https://jamboard.google.com/d/13quifUstPQ8wVdB2DKcSJ4tfNyAX3_kcJVm43RidaEY/edit?usp=sharing)
+* [Sheets - Breaking down a feature](https://docs.google.com/spreadsheets/d/1LRgErrZ4drsIyLrmbCi6qDsPLjT3vd-rqtVkEU7YUNQ/edit?usp=sharing)
 
 ## Test 📝
 * Find the test [here](https://aplica.typeform.com/to/TAwzKmZH) on Friday.
